@@ -88,7 +88,7 @@ function MyUrges() {
               name="name"
               value={formData.name}
               onChange={handleChange}
-              placeholder="Porn, Junk Food, Scrolling..."
+              placeholder="Alcohol, Junk Food, Scrolling..."
               required
             />
           </div>
