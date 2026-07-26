@@ -64,7 +64,20 @@ Instead of just tracking habits, Anchor focuses on **in-the-moment intervention*
 
 ## 📸 Screenshots
 
+### Dashboard
+![Dashboard](./screenshots/anchor-dashboard1.jpg)
+![Dashboard](./screenshots/anchor-dashboard2.jpg)
+
+### My Urges
+![My Urges](./screenshots/anchor-myUrges1.jpg)
+![My Urges](./screenshots/anchor-myUrges2.jpg)
+
+### Log Urge
+![Log Urge](./screenshots/anchor-logUrge1.jpg)
+![Log Urge](./screenshots/anchor-logUrge2.jpg)
+![Log Urge](./screenshots/anchor-logUrge3.jpg)
 Examples:
+
 - Dashboard
 - Log Urge page
 - Help Me Resist screen

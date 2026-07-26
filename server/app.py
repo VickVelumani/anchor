@@ -18,6 +18,9 @@ db.init_app(app)
 bcrypt.init_app(app)
 jwt.init_app(app)
 
+@app.route("/")
+def health_check():
+    return {"message": "Anchor API is running"}, 200
 
 @app.route("/")
 def home():
