@@ -369,6 +369,8 @@ def get_stats_summary():
         "current_streak": current_streak
     }), 200
 
+with app.app_context():
+    db.create_all()
 
 if __name__ == "__main__":
     with app.app_context():
