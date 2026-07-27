@@ -1,10 +1,9 @@
 import axios from 'axios'
 
 const API = axios.create({
-  baseURL: 'http://127.0.0.1:5000',
+  baseURL: 'https://anchor-ovgz.onrender.com',
 })
 
-// 🔥 Add token automatically to every request
 API.interceptors.request.use((req) => {
   const token = localStorage.getItem('token')
 
