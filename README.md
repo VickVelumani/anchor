@@ -1,8 +1,18 @@
 # Anchor
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/Hosted%20on-Render-46E3B7)
 
 Anchor is a full-stack web application that helps users build self-discipline by tracking urges and encouraging reflection before making impulsive decisions. Rather than only focusing on streaks, the app reminds users of the goals, reasons, and commitments they created during moments of clarity, helping them stay accountable when an urge occurs.
 
 ---
+
+## 🚀 Live Demo
+
+**Try the app here:** https://anchor-frontend1.onrender.com
+
+> This project is fully deployed on Render. Feel free to create an account and test all features.
 
 ## Screenshots
 
